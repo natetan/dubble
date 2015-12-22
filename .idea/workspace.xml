@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c66dc08f-613c-4786-9b7a-983a5745620b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aura/img/dubble-img/background/background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aura/img/dubble-img/background/background2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aura/home-home-4.html" afterPath="$PROJECT_DIR$/aura/home-home-4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aura/about-about-1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aura/about-about-2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aura/about-about-3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aura/about-about-4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aura/home-home-4 copy.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aura/home.html" afterPath="$PROJECT_DIR$/aura/home.html" />
     </list>
     <ignored path="dubble.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,27 +28,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home-home-4.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aura/home-home-4.html">
+      <file leaf-file-name="footers-footers-base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aura/footers-footers-base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="6.046676">
-              <caret line="287" column="5" selection-start-line="287" selection-start-column="5" selection-end-line="287" selection-end-column="5" />
+            <state vertical-scroll-proportion="65.0">
+              <caret line="1044" column="0" selection-start-line="1044" selection-start-column="0" selection-end-line="1044" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aura/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.6530614">
+              <caret line="96" column="52" selection-start-line="96" selection-start-column="52" selection-end-line="96" selection-end-column="52" />
               <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footers-footers-base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aura/footers-footers-base.html">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aura/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25">
-              <caret line="1032" column="0" selection-start-line="1032" selection-start-column="0" selection-end-line="1140" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.44554454">
+              <caret line="99" column="12" selection-start-line="99" selection-start-column="12" selection-end-line="99" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -73,16 +80,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home-home-7.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aura/home-home-7.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-101.333336">
-              <caret line="1205" column="43" selection-start-line="1205" selection-start-column="43" selection-end-line="1205" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="background.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aura/img/dubble-img/background/background.jpg">
           <provider selected="true" editor-type-id="images">
@@ -100,6 +97,10 @@
       <list>
         <option value="$PROJECT_DIR$/aura/index.html" />
         <option value="$PROJECT_DIR$/aura/home-home-4.html" />
+        <option value="$PROJECT_DIR$/aura/about-about-4.html" />
+        <option value="$PROJECT_DIR$/aura/about-about-2.html" />
+        <option value="$PROJECT_DIR$/aura/home.html" />
+        <option value="$PROJECT_DIR$/aura/about.html" />
       </list>
     </option>
   </component>
@@ -371,9 +372,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="23" width="1440" height="828" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31041667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31041667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -411,32 +412,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aura/home-home-4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="287" column="37" selection-start-line="287" selection-start-column="37" selection-end-line="287" selection-end-column="37" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aura/css/header-rows.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="89" column="8" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="8" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aura/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.548387">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -468,14 +448,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aura/home-home-7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-101.333336">
-          <caret line="1205" column="43" selection-start-line="1205" selection-start-column="43" selection-end-line="1205" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aura/forms.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="12.5">
@@ -494,23 +466,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aura/footers-footers-base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25">
-          <caret line="1032" column="0" selection-start-line="1032" selection-start-column="0" selection-end-line="1140" selection-end-column="56" />
+        <state vertical-scroll-proportion="65.0">
+          <caret line="1044" column="0" selection-start-line="1044" selection-start-column="0" selection-end-line="1044" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aura/home-home-4.html">
+    <entry file="file://$PROJECT_DIR$/aura/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.046676">
-          <caret line="287" column="5" selection-start-line="287" selection-start-column="5" selection-end-line="287" selection-end-column="5" />
+        <state vertical-scroll-proportion="-7.6530614">
+          <caret line="96" column="52" selection-start-line="96" selection-start-column="52" selection-end-line="96" selection-end-column="52" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aura/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44554454">
+          <caret line="99" column="12" selection-start-line="99" selection-start-column="12" selection-end-line="99" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
