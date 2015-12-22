@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c66dc08f-613c-4786-9b7a-983a5745620b" name="Default" comment="remove nav bar text">
+    <list default="true" id="c66dc08f-613c-4786-9b7a-983a5745620b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aura/home-home-4.html" afterPath="$PROJECT_DIR$/aura/home-home-4.html" />
     </list>
@@ -27,8 +27,8 @@
       <file leaf-file-name="home-home-4.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/aura/home-home-4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46579805">
-              <caret line="70" column="88" selection-start-line="70" selection-start-column="88" selection-end-line="70" selection-end-column="88" />
+            <state vertical-scroll-proportion="0.57328993">
+              <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -243,7 +243,13 @@
       <option name="project" value="LOCAL" />
       <updated>1450777475727</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add the right sections to the nav bar">
+      <created>1450779109788</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1450779109788</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -278,7 +284,8 @@
     <MESSAGE value="remove unused header" />
     <MESSAGE value="add image 1 to nav bar" />
     <MESSAGE value="remove nav bar text" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove nav bar text" />
+    <MESSAGE value="add the right sections to the nav bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="add the right sections to the nav bar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -347,8 +354,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aura/home-home-4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46579805">
-          <caret line="70" column="88" selection-start-line="70" selection-start-column="88" selection-end-line="70" selection-end-column="88" />
+        <state vertical-scroll-proportion="0.57328993">
+          <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
           <folding />
         </state>
       </provider>
