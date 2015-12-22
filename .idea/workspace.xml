@@ -27,9 +27,11 @@
       <file leaf-file-name="home-home-4.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/aura/home-home-4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.57328993">
-              <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
-              <folding />
+            <state vertical-scroll-proportion="0.6807818">
+              <caret line="301" column="23" selection-start-line="301" selection-start-column="23" selection-end-line="301" selection-end-column="23" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -249,7 +251,13 @@
       <option name="project" value="LOCAL" />
       <updated>1450779109788</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add the appropriate links for the appropriate section">
+      <created>1450780064721</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1450780064721</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -285,7 +293,8 @@
     <MESSAGE value="add image 1 to nav bar" />
     <MESSAGE value="remove nav bar text" />
     <MESSAGE value="add the right sections to the nav bar" />
-    <option name="LAST_COMMIT_MESSAGE" value="add the right sections to the nav bar" />
+    <MESSAGE value="add the appropriate links for the appropriate section" />
+    <option name="LAST_COMMIT_MESSAGE" value="add the appropriate links for the appropriate section" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -354,9 +363,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aura/home-home-4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57328993">
-          <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
-          <folding />
+        <state vertical-scroll-proportion="0.6807818">
+          <caret line="301" column="23" selection-start-line="301" selection-start-column="23" selection-end-line="301" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
