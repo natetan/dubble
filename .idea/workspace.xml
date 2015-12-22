@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c66dc08f-613c-4786-9b7a-983a5745620b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aura/home-home-4.html" afterPath="$PROJECT_DIR$/aura/home-home-4.html" />
     </list>
     <ignored path="dubble.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +26,7 @@
       <file leaf-file-name="home-home-4.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/aura/home-home-4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0749185">
+            <state vertical-scroll-proportion="1.7198697">
               <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
               <folding />
             </state>
@@ -155,7 +154,13 @@
       <option name="project" value="LOCAL" />
       <updated>1450776136273</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="remove unused header">
+      <created>1450776233558</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1450776233558</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -205,7 +210,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aura/home-home-4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0749185">
+        <state vertical-scroll-proportion="1.7198697">
           <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
           <folding />
         </state>
