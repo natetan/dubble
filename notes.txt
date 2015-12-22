@@ -1,0 +1,29 @@
+home 4
+about 2
+footer 1 - restate the header (above navbar)
+contact 2
+blog medium image
+use table for data visualization (bootstrap tables maybe)
+
+use of accordians for lawyer data visuals (after the search) -- unfold all
+gooooooogle roadmaps (contact page)
+
+NAV BAR
+
+The site consists of the following pages:
+
+* Home (include signup)
+
+* Find Lawyers
+
+* News / Blog
+
+* My Account/Login (right side)
+
+* Pricing
+
+* About Us
+
+* Contact Us
+
+* Terms (footer) dont worry yet
