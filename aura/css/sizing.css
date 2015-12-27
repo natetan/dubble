@@ -1,0 +1,11 @@
+/*
+This should make the logo smaller on smaller screens
+-yt
+*/
+@media(max-width:767px) { /* small screen */
+	.navbar-logo {
+		width: 50%;
+		height: 50%;
+	}
+
+}
