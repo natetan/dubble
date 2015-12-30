@@ -1,9 +1,0 @@
-/*
-This should make the logo smaller on smaller screens
--yt
-*/
-@media(max-width:767px) { /* small screen */
-	.navbar-logo {
-		content: url("../img/dubble-img/logo/dubble_booked_logo_only.png");
-	}
-}
