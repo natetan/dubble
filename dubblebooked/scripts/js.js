@@ -31,6 +31,11 @@
 
 // If court is selected
     function changeRequestCourt() {
+        $('#lawyersName').empty(); // Clears everything from before
+        $('#lawyersPhone').empty();
+        $('#lawyersEmail').empty();
+
+
         request[this.getAttribute("id")] = this.value;
         $('#room').empty();
         $('#room').append("<option disabled=\"disabled\" selected=\"selected\">Room</option>");
@@ -47,6 +52,11 @@
 // Room is clicked
     function changeRequestRoom() {
         request[this.getAttribute("id")] = this.value;
+
+        $('#lawyersName').empty(); // Clears everything from before
+        $('#lawyersPhone').empty();
+        $('#lawyersEmail').empty();
+
         $('#date').empty();
         $('#date').append("<option disabled=\"disabled\" selected=\"selected\">Date</option>");
         $('#time').empty();
@@ -60,13 +70,27 @@
         request[this.getAttribute("id")] = this.value;
         $('#time').empty();
         $('#time').append("<option disabled=\"disabled\" selected=\"selected\">Time</option>");
+
+
+        $('#lawyersName').empty(); // Clears everything from before
+        $('#lawyersPhone').empty();
+        $('#lawyersEmail').empty();
+
+
         request["time"] = "";
         requestAndFill("time");
 
     }
 
     function changeRequestTime() {
-        requestAndFill(this.getAttribute("id"));
+
+        $('#lawyersName').empty(); // Clears everything from before
+        $('#lawyersPhone').empty();
+        $('#lawyersEmail').empty();
+
+
+        request[this.getAttribute("id")] = reverseParseTime(this.value);
+        requestAndFill("bar_id");
     }
 
     function requestAndFill(s) {
@@ -76,11 +100,28 @@
                 var parent = document.getElementById(s);
                 for (var i = 0; i < data.length; i++) {
                     var node = document.createElement("OPTION");
-                    if (s == "time")
+                    if (s == "bar_id") {
+                        // console.log(data);
+                        var lawyer = data[i];
+                        var liName =  '<li>' + lawyer['name'] +  '</li>';
+                        var liPhone = '<li>' + lawyer['phone'] + '</li>';
+                        var liEmail = '<li>' + lawyer['email'] + '</li>';
+
+
+                        // Append Children
+                        $('#lawyersName').append(liName); 
+                        $('#lawyersPhone').append(liPhone);
+                        $('#lawyersEmail').append(liEmail);
+                    }
+                        // do nothing now. Needs to fill 
+                    else if (s == "time") {
                         node.innerHTML = parseTime(data[i]);
-                    else
+                        parent.appendChild(node);
+                    }
+                    else {
                         node.innerHTML = data[i];
-                    parent.appendChild(node);
+                        parent.appendChild(node);
+                    }
 
                 }
                 $("#" + s).show();
@@ -101,6 +142,17 @@
             return t + " AM";
         }
 
+    }
+    function reverseParseTime(t) {
+        console.log(t);
+        console.log(t.substring(t.length - 3));
+        if (t.substring(t.length - 3) == " PM") 
+            t = parseInt(t.substring(0, 2)) + 12 + t.substring(2, t.length - 3); // Removes " PM"
+        else {
+            t = t.substring(0, t.length - 3) // Removes " AM"
+        }
+        console.log(t);
+        return t;
     }
 })();
 
